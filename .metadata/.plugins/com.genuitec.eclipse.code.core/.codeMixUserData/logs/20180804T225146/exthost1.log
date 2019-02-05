@@ -1,0 +1,29 @@
+[2018-08-04 22:52:03.783] [exthost1] [info] extension host started
+[2018-08-04 22:52:06.443] [exthost1] [info] extension host started
+[2018-08-04 22:52:06.921] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:52:06.922] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-08-04 22:52:07.499] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:52:07.499] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\git\out\main
+[2018-08-04 22:52:08.468] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:52:08.468] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-08-04 22:52:08.556] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:52:08.556] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-08-04 22:52:08.581] [exthost1] [info] eager extensions activated
+[2018-08-04 22:52:08.581] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-04 22:52:08.581] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-08-04 22:52:08.614] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-04 22:52:08.614] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain
+[2018-08-04 22:57:15.544] [exthost1] [info] extension host started
+[2018-08-04 22:57:15.647] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:57:15.648] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-08-04 22:57:16.034] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:57:16.034] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\git\out\main
+[2018-08-04 22:57:17.309] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:57:17.309] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-08-04 22:57:17.459] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-08-04 22:57:17.459] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-08-04 22:57:17.483] [exthost1] [info] eager extensions activated
+[2018-08-04 22:57:17.484] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-04 22:57:17.484] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-08-04 22:57:17.517] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-08-04 22:57:17.517] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\oaste\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain

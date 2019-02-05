@@ -1,0 +1,23 @@
+package net.oaster2000.sinserver;
+
+public class Server {
+
+	private int port;
+	
+	public Server(int port) {
+		this.port = port;
+	}
+	
+	private void listen() {
+		
+	}
+	
+	private void process() {
+		
+	}
+	
+	public void send() {
+		
+	}
+	
+}

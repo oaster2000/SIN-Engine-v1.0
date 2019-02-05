@@ -1,0 +1,10 @@
+package net.oaster2000.sinserver;
+
+public class SinServer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
