@@ -2,3 +2,6 @@
 **/metadata
 **/recommenders
 **/.vscode
+**/.settings
+.classpath
+.project
