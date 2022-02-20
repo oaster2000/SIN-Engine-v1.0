@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;SIN Engine/src/net/oaster2000/game&apos; to &apos;sin&apos;" description="Rename resource &apos;game&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/net/oaster2000/game" name="sin" stamp="1541581503039" updateReferences="true"/>
-</session>

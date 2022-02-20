@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;SIN Engine&apos;&#x0D;&#x0A;- Original project: &apos;SIN Engine&apos;&#x0D;&#x0A;- Original element: &apos;SIN Engine/res/textures.levels&apos;" description="Delete element" element1="/res&lt;textures.levels" element2="/res&lt;textures" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1533492030919" subPackages="false" version="1.0"/>
-</session>
